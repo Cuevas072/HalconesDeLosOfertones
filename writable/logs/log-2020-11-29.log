@@ -1,0 +1,9 @@
+CRITICAL - 2020-11-29 21:06:03 --> Invalid file: productoUnv.php
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productoUnv.php')
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Common.php(1119): CodeIgniter\View\View->render('productoUnv', Array, true)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminProyecto.php(7): view('productoUnv')
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminProyecto->index()
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminProyecto))
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}

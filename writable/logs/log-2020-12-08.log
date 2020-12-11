@@ -1,0 +1,102 @@
+CRITICAL - 2020-12-08 18:22:30 --> Class 'App\Controllers\personasModel' not found
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminUsuarioA->consulta()
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminUsuarioA))
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-08 18:22:43 --> Class 'App\Controllers\personasModel' not found
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminUsuarioA->consulta()
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminUsuarioA))
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-08 18:24:57 --> Invalid file: head.php
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('head.php')
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Common.php(1119): CodeIgniter\View\View->render('head', Array, true)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminUsuarioA.php(38): view('head')
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminUsuarioA->consulta()
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminUsuarioA))
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-08 18:25:13 --> Invalid file: head.php
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('head.php')
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Common.php(1119): CodeIgniter\View\View->render('head', Array, true)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminUsuarioA.php(43): view('head')
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminUsuarioA->busquedaF()
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminUsuarioA))
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-08 18:25:29 --> Invalid file: head.php
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('head.php')
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Common.php(1119): CodeIgniter\View\View->render('head', Array, true)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminUsuarioA.php(43): view('head')
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminUsuarioA->busquedaF()
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminUsuarioA))
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-08 18:25:37 --> Invalid file: head.php
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('head.php')
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Common.php(1119): CodeIgniter\View\View->render('head', Array, true)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminUsuarioA.php(43): view('head')
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminUsuarioA->busquedaF()
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminUsuarioA))
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-08 18:27:34 --> Invalid file: head.php
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('head.php')
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Common.php(1119): CodeIgniter\View\View->render('head', Array, true)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminUsuarioA.php(51): view('head')
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminUsuarioA->busquedaE()
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminUsuarioA))
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-08 18:37:28 --> Invalid file: formBu.php
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('formBu.php')
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Common.php(1119): CodeIgniter\View\View->render('formBu', Array, true)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminUsuarioA.php(59): view('formBu')
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminUsuarioA->x()
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminUsuarioA))
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-08 18:38:08 --> Invalid file: formBu.php
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('formBu.php')
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Common.php(1119): CodeIgniter\View\View->render('formBu', Array, true)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminUsuarioA.php(59): view('formBu')
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminUsuarioA->x()
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminUsuarioA))
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-08 18:38:16 --> Invalid file: formBu.php
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('formBu.php')
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Common.php(1119): CodeIgniter\View\View->render('formBu', Array, true)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminUsuarioA.php(59): view('formBu')
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminUsuarioA->x()
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminUsuarioA))
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2020-12-08 18:48:36 --> Call to a member function getPost() on null
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminUsuarioA->x()
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminUsuarioA))
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-08 19:11:23 --> Call to a member function update() on null
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminUsuarioA->actualizar()
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminUsuarioA))
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-12-08 19:12:52 --> Call to a member function update() on null
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminUsuarioA->actualizar()
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminUsuarioA))
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

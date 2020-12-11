@@ -1,0 +1,90 @@
+CRITICAL - 2020-12-07 14:05:20 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminProyecto.php(66): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminProyecto->alta()
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminProyecto))
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-07 14:21:46 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminProyecto.php(66): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminProyecto->alta()
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminProyecto))
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-07 14:27:02 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminProyecto.php(65): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminProyecto->alta()
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminProyecto))
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-07 14:29:20 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminProyecto.php(65): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminProyecto->alta()
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminProyecto))
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-07 14:31:58 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminProyecto.php(62): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminProyecto->alta()
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminProyecto))
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-07 14:38:17 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminProyecto.php(66): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminProyecto->alta()
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminProyecto))
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-07 14:45:41 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminProyecto.php(66): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminProyecto->alta()
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminProyecto))
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-07 14:47:42 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminProyecto.php(66): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminProyecto->alta()
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminProyecto))
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-07 14:52:08 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\app\Controllers\AdminProyecto.php(67): CodeIgniter\Model->insert(Array)
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(918): App\Controllers\AdminProyecto->alta()
+#5 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminProyecto))
+#6 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

@@ -1,0 +1,42 @@
+CRITICAL - 2020-11-30 19:54:04 --> syntax error, unexpected 'view' (T_STRING), expecting ';'
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('AdminProyecto/b...')
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('AdminProyecto/b...')
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-30 20:41:37 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('AdminUsuarioR/b...')
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('AdminUsuarioR/b...')
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-30 20:41:39 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('AdminUsuarioR/i...')
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('AdminUsuarioR/i...')
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-30 20:41:40 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('AdminUsuarioR/i...')
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('AdminUsuarioR/i...')
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-30 20:41:43 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('AdminUsuarioR/i...')
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('AdminUsuarioR/i...')
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-30 20:41:44 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\HalconesDeLosOfertones\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('AdminUsuarioR/i...')
+#1 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('AdminUsuarioR/i...')
+#2 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\HalconesDeLosOfertones\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\HalconesDeLosOfertones\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
