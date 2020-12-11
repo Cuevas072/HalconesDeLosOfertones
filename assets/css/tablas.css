@@ -1,0 +1,12 @@
+.titulo{
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+.textirri{
+	font-family: 'Roboto', sans-serif;
+	font-size:15px;
+	color: gray;
+	margin-top: 5px;		
+}
